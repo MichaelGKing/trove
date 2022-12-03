@@ -1,0 +1,4 @@
+trove
+/TESTFILES
+*.o
+/.vscode
